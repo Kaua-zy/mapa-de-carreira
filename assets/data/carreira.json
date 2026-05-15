@@ -8,15 +8,15 @@
   "profile": {
     "name": "Kauã Alves",
     "headline": "Educacao, Web e Gestao de TI",
-    "photo": "assets/images/profile.jpg",
-    "photoAlt": "Foto profissional de Sarah Lima",
+    "photo": "Foto-Kaka.png",
+    "photoAlt": "Foto profissional de Kauã Alves",
     "summary": "Tenho experiencia em desenvolvimento web, educacao e gestao de tecnologia. Participei de projetos que transformaram ideias em solucoes digitais e agora organizo meu mapa de carreira com foco em aprendizagem continua, colaboracao e impacto profissional.",
     "cvUrl": "#"
   },
   "contacts": [
     {
       "label": "kauaalves1789@gmail.com",
-      "url": "mailto:sarah.lima@example.com"
+      "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"
     },
     {
       "label": "https://www.linkedin.com/in/kauaalvessilva1899/",
