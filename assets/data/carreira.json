@@ -1,9 +1,9 @@
 {
   "seo": {
     "title": "Kauã Alves| Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "description": "Mapa de carreira de Kauã Alves, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
     "author": "Sarah Lima",
-    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+    "canonicalUrl": "https://kaua-zy.github.io/mapa-de-carreira/"
   },
   "profile": {
     "name": "Kauã Alves",
@@ -29,19 +29,19 @@
   ],
   "careerSteps": [
     {
-      "title": "Desenvolvedora Junior",
-      "description": "Consolidar fundamentos de desenvolvimento web, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
+      "title": "Desenvolvedor Kotlin",
+      "description": "Me desenvolver profissionalmente, aprendendo, estudando, logica de programacao e boas praticas de comunicacao em equipe.",
       "softSkills": [
-        "Comunicacao clara para pedir ajuda e registrar aprendizados.",
         "Organizacao para estudar, praticar e acompanhar tarefas.",
-        "Curiosidade para investigar problemas e testar solucoes."
+        "Curiosidade para investigar problemas e testar solucoes.",
+        "Adaptabilidade para transitar em diferentes áreas.",
       ],
+      
       "roadmap": [
-        "HTML semantico",
-        "CSS responsivo",
-        "JavaScript",
         "Git e GitHub",
-        "Acessibilidade"
+        "Acessibilidade",
+        "lógica de programção",
+        "Android studio"
       ]
     },
     {
