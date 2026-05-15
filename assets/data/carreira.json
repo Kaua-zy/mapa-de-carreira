@@ -1,12 +1,12 @@
 {
   "seo": {
-    "title": "Sarah Lima | Mapa de Carreira em Tecnologia",
+    "title": "Kauã Alves| Mapa de Carreira em Tecnologia",
     "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
     "author": "Sarah Lima",
     "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
   },
   "profile": {
-    "name": "Sarah Lima",
+    "name": "Kauã Alves",
     "headline": "Educacao, Web e Gestao de TI",
     "photo": "assets/images/profile.jpg",
     "photoAlt": "Foto profissional de Sarah Lima",
@@ -15,16 +15,16 @@
   },
   "contacts": [
     {
-      "label": "sarah.lima@example.com",
+      "label": "kauaalves1789@gmail.com",
       "url": "mailto:sarah.lima@example.com"
     },
     {
-      "label": "linkedin.com/in/sarahlima",
-      "url": "https://www.linkedin.com/in/sarahlima"
+      "label": "https://www.linkedin.com/in/kauaalvessilva1899/",
+      "url":"https://www.linkedin.com/in/kauaalvessilva1899/"
     },
     {
-      "label": "github.com/sarahlima",
-      "url": "https://github.com/sarahlima"
+      "label": "https://github.com/Kaua-zy",
+      "url": "https://github.com/Kaua-zy"
     }
   ],
   "careerSteps": [
