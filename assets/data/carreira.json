@@ -1,122 +1,121 @@
 {
-  "seo": {
-    "title": "Kauã Alves| Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de Kauã Alves, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
-    "author": "Kauã Alves",
-    "canonicalUrl": "https://kaua-zy.github.io/mapa-de-carreira/"
-  },
-  "profile": {
-    "name": "Kauã Alves",
-    "headline": "Kotlin e Desenvolvedor Mobile",
-    "photo": "Foto-Kaka.png",
-    "photoAlt": "Foto profissional de Kauã Alves",
-    "summary": "Tenho experiencia em desenvolvimento mobile e progrmação em kotlin.",
-    "cvUrl": "#"
-  },
-  "contacts": [
-    {
-      "label": "kauaalves1789@gmail.com",
-      "url": "mailto:kauaalves1789@gmail.com"
-    },
-    {
-      "label": "https://www.linkedin.com/in/kauaalvessilva1899/",
-      "url":"https://www.linkedin.com/in/kauaalvessilva1899/"
-    },
-    {
-      "label": "https://github.com/Kaua-zy",
-      "url": "https://github.com/Kaua-zy"
-    }
-  ],
-  "careerSteps": [
-    {
-      "title": "Desenvolvedor Kotlin",
-      "description": "Me desenvolver profissionalmente, aprendendo, estudando, logica de programacao e boas praticas de comunicacao em equipe.",
-      "softSkills": [
-        "Organizacao para estudar, praticar e acompanhar tarefas.",
-        "Curiosidade para investigar problemas e testar solucoes.",
-        "Adaptabilidade para transitar em diferentes áreas.",
-      ],
-      
-      "roadmap": [
-        "Gite e GitHub",
-        "Acessibilidade",
-        "lógica de programção",
-        "Android studio"
-      ]
-    },
-    {
-      "title": "Desenvolvedora Pleno",
-      "description": "Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
-      "softSkills": [
-        "Responsabilidade sobre entregas e prazos combinados.",
-        "Colaboracao em revisoes de codigo e planejamento.",
-        "Capacidade de explicar escolhas tecnicas para diferentes publicos."
-      ],
-      "roadmap": [
-    
-        "Banco de dados"
-      ]
-    },
-    {
-      "title": "Lideranca tecnica",
-      "description": "Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
-      "softSkills": [
-        "Mentoria com escuta ativa e feedback construtivo.",
-        "Priorizacao entre impacto, custo, risco e aprendizado.",
-        "Visao sistemica sobre produto, pessoas e tecnologia."
-      ],
-      "roadmap": [
-        "Arquitetura de software",
-        "Cloud",
-        "Observabilidade",
-        "Seguranca"
-      ]
-    }
-  ],
-  "skillGroups": [
-    {
-      "title": "Backend",
-      "skills": [
-        {
-          "name": "Kotlin",
-          "level": 55
-        },
-        {
-          "name": "React",
-          "level": 70
-        }
-      ]
-    },
-    {
-      "title": "Backend e dados",
-      "skills": [
-        {
-          "name": "Node.js e APIs",
-          "level": 65
-        },
-        {
-          "name": "SQL",
-          "level": 60
-        }
-      ]
-    }
-  ],
-  "otherSkills": [
-    "Git",
-    "Comunicacao",
-    "Documentacao",
-    "Code review"
-  ],
-  "languages": [
-    {
-      "name": "Portugues",
-      "level": "Nativo"
-    },
-    {
-      "name": "Ingles",
-      "level": "Tecnico"
-    },
-    {
-    }
-  ]
+   "seo":{
+      "title":"Kaua Alves| Mapa de Carreira em Tecnologia",
+      "description":"Mapa de carreira de Kauã Alves, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+      "author":"Kauã Alves",
+      "canonicalUrl":"https://kaua-zy.github.io/mapa-de-carreira/"
+   },
+   "profile":{
+      "name":"Kauã Alves",
+      "headline":"Kotlin e Desenvolvedor Mobile",
+      "photo":"Foto-Kaka.png",
+      "photoAlt":"Foto profissional de Kauã Alves",
+      "summary":"Tenho experiencia em desenvolvimento mobile e progrmação em kotlin.",
+      "cvUrl":"#"
+   },
+   "contacts":[
+      {
+         "label":"kauaalves1789@gmail.com",
+         "url":"mailto:kauaalves1789@gmail.com"
+      },
+      {
+         "label":"https://www.linkedin.com/in/kauaalvessilva1899/",
+         "url":"https://www.linkedin.com/in/kauaalvessilva1899/"
+      },
+      {
+         "label":"https://github.com/Kaua-zy",
+         "url":"https://github.com/Kaua-zy"
+      }
+   ],
+   "careerSteps":[
+      {
+         "title":"Desenvolvedor Kotlin",
+         "description":"Me desenvolver profissionalmente, aprendendo, estudando, logica de programacao e boas praticas de comunicacao em equipe.",
+         "softSkills":[
+            "Organizacao para estudar, praticar e acompanhar tarefas.",
+            "Curiosidade para investigar problemas e testar solucoes.",
+            "Adaptabilidade para transitar em diferentes áreas."
+         ],
+         "roadmap":[
+            "Git e GitHub",
+            "Acessibilidade",
+            "lógica de programção",
+            "Android studio"
+         ]
+      },
+      {
+         "title":"Desenvolvedora Pleno",
+         "description":"Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
+         "softSkills":[
+            "Responsabilidade sobre entregas e prazos combinados.",
+            "Colaboracao em revisoes de codigo e planejamento.",
+            "Capacidade de explicar escolhas tecnicas para diferentes publicos."
+         ],
+         "roadmap":[
+            "Banco de dados"
+         ]
+      },
+      {
+         "title":"Lideranca tecnica",
+         "description":"Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
+         "softSkills":[
+            "Mentoria com escuta ativa e feedback construtivo.",
+            "Priorizacao entre impacto, custo, risco e aprendizado.",
+            "Visao sistemica sobre produto, pessoas e tecnologia."
+         ],
+         "roadmap":[
+            "Arquitetura de software",
+            "Cloud",
+            "Observabilidade",
+            "Seguranca"
+         ]
+      }
+   ],
+   "skillGroups":[
+      {
+         "title":"Backend",
+         "skills":[
+            {
+               "name":"Kotlin",
+               "level":55
+            },
+            {
+               "name":"React",
+               "level":70
+            }
+         ]
+      },
+      {
+         "title":"Backend e dados",
+         "skills":[
+            {
+               "name":"Node.js e APIs",
+               "level":65
+            },
+            {
+               "name":"SQL",
+               "level":60
+            }
+         ]
+      }
+   ],
+   "otherSkills":[
+      "Git",
+      "Comunicacao",
+      "Documentacao",
+      "Code review"
+   ],
+   "languages":[
+      {
+         "name":"Portugues",
+         "level":"Nativo"
+      },
+      {
+         "name":"Ingles",
+         "level":"Tecnico"
+      },
+      {
+         
+      }
+   ]
 }
