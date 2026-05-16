@@ -34,7 +34,8 @@
          "softSkills":[
             "Organizacao para estudar, praticar e acompanhar tarefas.",
             "Curiosidade para investigar problemas e testar solucoes.",
-            "Adaptabilidade para transitar em diferentes áreas."
+            "Adaptabilidade para transitar em diferentes áreas.",
+            "Proatividade na resolução de problemas"
          ],
          "roadmap":[
             "Git e GitHub",
@@ -44,30 +45,32 @@
          ]
       },
       {
-         "title":"Desenvolvedora Pleno",
-         "description":"Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
+         "title":"Desenvolvedor Mobile",
+         "description":"Como desenvolvedor mobile, busco atuar com autonomia no desenvolvimento de aplicações, participando de decisões técnicas e contribuindo na entrega de funcionalidades com qualidade.",
          "softSkills":[
             "Responsabilidade sobre entregas e prazos combinados.",
-            "Colaboracao em revisoes de codigo e planejamento.",
-            "Capacidade de explicar escolhas tecnicas para diferentes publicos."
-         ],
+            "Organização e responsabilidade",
+            "Capacidade de explicar escolhas tecnicas para diferentes publicos.",
+            "Organização e responsabilidade"
+            
+         
+         ], 
          "roadmap":[
             "Banco de dados"
          ]
       },
       {
-         "title":"Lideranca tecnica",
-         "description":"Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
+         "title":"Dados",
+      "description":" Contribuindo na área de dados com análises, organizações e desenvolvimento de soluções inteligentes, colaborando em decisões técnicas e garantindo precisão, eficiência e qualidade nas entregas.",
          "softSkills":[
-            "Mentoria com escuta ativa e feedback construtivo.",
-            "Priorizacao entre impacto, custo, risco e aprendizado.",
-            "Visao sistemica sobre produto, pessoas e tecnologia."
+            "Organização e autonomia na execução de tarefas.",
+            "Atenção à qualidade, testes e melhoria contínua.",
+           
          ],
          "roadmap":[
-            "Arquitetura de software",
-            "Cloud",
-            "Observabilidade",
-            "Seguranca"
+            "Estruturas de dados",
+            "Visualização de dados",
+            "Conceitos de banco de dados"
          ]
       }
    ],
@@ -80,30 +83,30 @@
                "level":55
             },
             {
-               "name":"React",
-               "level":70
+               "name":"Banco de dados",
+               "level":40
             }
          ]
       },
       {
-         "title":"Backend e dados",
+         "title":"Backend",
          "skills":[
             {
-               "name":"Node.js e APIs",
-               "level":65
+               "name":"Programação",
+               "level":40
             },
             {
-               "name":"SQL",
-               "level":60
+               "name":"MongoDB",
+               "level": 45
             }
          ]
       }
    ],
    "otherSkills":[
       "Git",
-      "Comunicacao",
-      "Documentacao",
-      "Code review"
+      "Comunicação visual e senso estético",
+      "Curiosidade analítica e exploração de ideias",
+      "Observação de detalhes e atmosfera visual"
    ],
    "languages":[
       {
