@@ -1,0 +1,16 @@
+# Mapa de Carreira - Kauã Alves
+
+Site pessoal de mapa de carreira.
+
+## Como publicar no GitHub Pages
+
+1. Crie um repositório novo no GitHub (ex: `mapa-de-carreira`).
+2. Faça upload de **todos** os arquivos desta pasta para a **raiz** do repositório (não dentro de subpasta).
+3. Vá em **Settings → Pages**.
+4. Em **Source**, selecione a branch `main` e a pasta `/ (root)`.
+5. Salve. Em ~1 minuto o site estará no ar em:
+   `https://SEU-USUARIO.github.io/mapa-de-carreira/`
+
+## Estrutura
+
+- `index.html` - página única, autocontida (CSS, imagem em base64 e libs via CDN). Não precisa de mais nada.
