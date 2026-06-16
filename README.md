@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kauã Alves — Mapa de Carreira</title>
+  <title>Kauã Alves </title>
   <meta name="description" content="Mapa de carreira de Kauã Alves — Desenvolvedor Mobile, Kotlin e Banco de Dados.">
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
